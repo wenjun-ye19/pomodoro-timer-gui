@@ -27,10 +27,10 @@ COLOR_BTN_BREAK = "#FFF59D"  # Light Yellow for Break mode button
 FONT_LARGE = ("Helvetica", 48, "bold")
 FONT_MEDIUM = ("Helvetica", 14)
 
-class PomodoroApp:
+class FocusTimer:
     def __init__(self, root):
         self.root = root
-        self.root.title("Stoic Pomodoro Timer")
+        self.root.title("Stoic Focus Timer")
         self.root.geometry("400x350")
         self.root.resizable(False, False)
         
@@ -204,5 +204,5 @@ class PomodoroApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = PomodoroApp(root)
+    app = FocusTimer(root)
     root.mainloop()

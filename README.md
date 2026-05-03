@@ -1,6 +1,6 @@
-# 🍅 Stoic Pomodoro GUI
+# Stoic Focus Timer GUI
 
-A clean, cross-desktop Pomodoro timer built with Python and Tkinter. Designed for focus and simplicity.
+A clean, cross-desktop timer built with Python and Tkinter. Designed for focus and simplicity.
 
 ## ✨ Features
 
@@ -14,3 +14,11 @@ A clean, cross-desktop Pomodoro timer built with Python and Tkinter. Designed fo
 ```bash
 python main.py
 ```
+
+## ⚖️ Disclaimer
+
+This project is a personal educational implementation of the time management method popularly known as the "Pomodoro Technique®".
+
+- "Pomodoro Technique®" is a registered trademark of Francesco Cirillo.
+- This software is not affiliated with, endorsed by, or connected to Francesco Cirillo or Pomodoro Technique®.
+- This tool is built for learning Python, GUI development, and personal productivity.
